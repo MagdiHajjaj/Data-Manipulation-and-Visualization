@@ -28,7 +28,7 @@ python -m pip install numpy matplotlib
 
 After downloading the zip, follow these steps to run the software:
 
-1. Extract the contents of the zip file to a location of your choice on your computer.
+1. Extract the contents of the zip file named "Game Character Data Management" to a location of your choice on your computer.
 2. Install the required dependencies.
 3. Open your preferred Integrated Development Environment (IDE) (e.g., Wing 101, Visual Studio Code).
 4. Open the extracted directory in your IDE. You can choose between the **text_UI** file or the **batch_UI** file, depending on your preferred interface.
