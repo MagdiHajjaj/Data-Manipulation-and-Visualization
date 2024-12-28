@@ -1,4 +1,4 @@
-# Game Character Data Management
+# Data Manipulation and Visualization
 
 - **Date:** April 7, 2024
 - **Software Name and Version:** Game Character Analyzer v1.0.0
