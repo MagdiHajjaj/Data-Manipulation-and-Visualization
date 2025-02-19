@@ -1,7 +1,7 @@
 # Data Manipulation and Visualization
 
 - **Date:** April 7, 2024
-- **Software Name and Version:** Game Character Analyzer v1.0.0
+- **Software Name and Version:** Data Analyzer v1.0.0
 - **Contact Information:** magdihajjaj@cmail.carleton.ca
 
 ## Description
